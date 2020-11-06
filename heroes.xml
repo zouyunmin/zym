@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<heroes>
+  <hero id="1" name="邓招良" type="坦克" blood="15000">小邓邓
+    <Skill>打爆你</Skill>
+  </hero>
+  <hero id="2" name="邓扬" type="战士" blood="8000">小邓邓
+    <Skill>打爆你</Skill>
+  </hero>
+  <hero id="3" name="妲己" type="法师" blood="6000">小邓邓
+    <Skill>打爆你</Skill>
+  </hero>
+  <hero id="4" name="王昭君" type="法师" blood="6000">小邓邓
+    <Skill>打爆你</Skill>
+  </hero>
+</heroes>
